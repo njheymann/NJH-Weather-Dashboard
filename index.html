@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather Forecast</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ysabeau+SC:wght@1;300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Weather Dashboard</h1>
+    </header>
+
+    <div class="container">
+      <div class="search-viewed">
+        <h3>Search for a city:</h3>
+        <input id="city-search" /><br />
+        <button id="search-button">Search</button>
+        <div class="viewed-cities">
+          <h3>Recently viewed:</h3>
+          <ul id="storage"></ul>
+        </div>
+        <button id="clear-search">Clear Search</button>
+      </div>
+
+      <div class="weather-containers">
+        <div class="current-weather">
+          <div class="current-weather-header">
+            <h3 id="city-date"></h3>
+            <img id="weather-icon" />
+          </div>
+          <p id="temp">Temp</p>
+          <p id="wind">Wind</p>
+          <p id="humidity">Humidity</p>
+        </div>
+
+        <div class="five-day-forecast">
+          <h2>5-day Forecast:</h2>
+          <div class="day1">
+            <div class="weather-header">
+              <h3></h3>
+              <img id="weather-icon" />
+            </div>
+            <p id="temp-min"></p>
+            <p id="temp-max">Temp</p>
+            <p id="wind">Wind</p>
+            <p id="humidity">Humidity</p>
+          </div>
+
+          <div class="day2">
+            <div class="weather-header">
+              <h3></h3>
+              <img id="weather-icon" />
+            </div>
+            <p id="temp-min"></p>
+            <p id="temp-max">Temp</p>
+            <p id="wind">Wind</p>
+            <p id="humidity">Humidity</p>
+          </div>
+
+          <div class="day3">
+            <div class="weather-header">
+              <h3></h3>
+              <img id="weather-icon" />
+            </div>
+            <p id="temp-min"></p>
+            <p id="temp-max">Temp</p>
+            <p id="wind">Wind</p>
+            <p id="humidity">Humidity</p>
+          </div>
+
+          <div class="day4">
+            <div class="weather-header">
+              <h3></h3>
+              <img id="weather-icon" />
+            </div>
+            <p id="temp-min"></p>
+            <p id="temp-max">Temp</p>
+            <p id="wind">Wind</p>
+            <p id="humidity">Humidity</p>
+          </div>
+
+          <div class="day5">
+            <div class="weather-header">
+              <h3></h3>
+              <img id="weather-icon" />
+            </div>
+            <p id="temp-min"></p>
+            <p id="temp-max">Temp</p>
+            <p id="wind">Wind</p>
+            <p id="humidity">Humidity</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
