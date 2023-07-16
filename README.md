@@ -22,10 +22,11 @@ WHEN I minimize the screen
 THEN my webpage responds and changes the layout  
 
 # Screenshots
-![Screenshot 2023-07-16 170356](https://github.com/njheymann/Weather-Dashboard/assets/125000756/8ef64430-2787-4706-8987-c0c093cf14fd)
+![Screenshot 2023-07-16 170356](https://github.com/njheymann/NJH-Weather-Dashboard/assets/125000756/5969d137-49f4-498c-a818-efb2b4a20b03)
 
-![Screenshot 2023-07-16 170309](https://github.com/njheymann/Weather-Dashboard/assets/125000756/cc497801-fd59-45b3-8dcb-bc5ff1d57baa)
-![Screenshot 2023-07-16 170459](https://github.com/njheymann/Weather-Dashboard/assets/125000756/d944bbb3-8d15-4898-b9ba-72e174db6dce)
+![Screenshot 2023-07-16 170309](https://github.com/njheymann/NJH-Weather-Dashboard/assets/125000756/7576b81d-5290-4cfd-8508-649bba9a27cb)
+
+![Screenshot 2023-07-16 170459](https://github.com/njheymann/NJH-Weather-Dashboard/assets/125000756/39d26367-4c79-4dcf-8703-bde72d8b1c41)
 
 # Links  
 Github repo: https://github.com/njheymann/Weather-Dashboard
