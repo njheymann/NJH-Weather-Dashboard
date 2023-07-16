@@ -28,5 +28,9 @@ THEN my webpage responds and changes the layout
 
 ![Screenshot 2023-07-16 170459](https://github.com/njheymann/NJH-Weather-Dashboard/assets/125000756/39d26367-4c79-4dcf-8703-bde72d8b1c41)
 
+![Screenshot 2023-07-17 081817](https://github.com/njheymann/NJH-Weather-Dashboard/assets/125000756/0e80716b-3211-45f0-ad9f-89117986150e)
+
+
 # Links  
-Github repo: https://github.com/njheymann/Weather-Dashboard
+Github repo: https://github.com/njheymann/NJH-Weather-Dashboard
+Deployed URL: https://njheymann.github.io/NJH-Weather-Dashboard
