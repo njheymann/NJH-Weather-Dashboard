@@ -32,5 +32,6 @@ THEN my webpage responds and changes the layout
 
 
 # Links  
-Github repo: https://github.com/njheymann/NJH-Weather-Dashboard
+Github repo: https://github.com/njheymann/NJH-Weather-Dashboard  
+
 Deployed URL: https://njheymann.github.io/NJH-Weather-Dashboard
