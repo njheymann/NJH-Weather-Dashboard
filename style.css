@@ -69,6 +69,7 @@ body {
 
 .weather-containers {
   padding: 10px;
+  margin-left: 50px;
 }
 
 .city .search-viewed {
